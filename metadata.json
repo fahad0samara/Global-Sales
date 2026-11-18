@@ -1,0 +1,6 @@
+{
+  "name": "لوحة تحليل المبيعات العالمية | Global Sales Overview",
+  "description": "لوحة تحكم تحليلية تفاعلية للمبيعات العالمية والأرباح حسب القارات والدول والمنتجات مع دعم كامل للغة العربية (RTL) والبيانات الحقيقية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
